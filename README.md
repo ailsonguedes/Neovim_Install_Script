@@ -44,6 +44,8 @@
 
 5. Finally, use the command `PlugInstall` in Neovim to install this configs.
 
+*PS: remember to install lua lang so that you can install toggleterm correctly.*
+
 ## 🙏 Contributions:
 
 Feel free to contribute to thiw project and, if you have any questions, please contact me.
