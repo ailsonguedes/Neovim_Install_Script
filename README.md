@@ -7,9 +7,7 @@
   <a href="https://neovim.io/" target="_blank">
       <img src="./img/neovim_logo.png" width="150" height="150" />
   </a>
-</div>
 
-<div align='center'>
   <a href="https://pt.wikipedia.org/wiki/Bash" target="_blank">
       <img src="./img/bash_logo.png" width="150" height="150" />
   </a>
