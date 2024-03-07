@@ -19,8 +19,8 @@
 
 ## 💻 How to Run:
 
-- This project was made to install my Neovim configs in Manjaro Linux.
-- Feel free to modify this script to uso in distro of your choice.
+This project was made to install my Neovim configs in Manjaro Linux.
+Feel free to modify this script to uso in distro of your choice.
 
 1. Turn this script in executable file:
 
@@ -29,10 +29,6 @@
   ```
 
 2. Run this projec (Linux):
-
-- Go to the script file path via terminal.
-
-- Run the command below in your terminal.
 
   ```shell
     ./projectname <username>
