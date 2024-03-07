@@ -35,7 +35,7 @@
 - Run the command below in your terminal.
 
   ```shell
-    ./projectname
+    ./projectname <username>
   ```
 
 3. Wait the script run time.
